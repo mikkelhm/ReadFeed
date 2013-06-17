@@ -1,0 +1,8 @@
+S:\Solutions\mikkelhm\ReadFeed\ReadFeed.Kernel\obj\Debug\ReadFeed.Kernel.csprojResolveAssemblyReference.cache
+S:\Solutions\mikkelhm\ReadFeed\ReadFeed.Kernel\bin\Debug\ReadFeed.Kernel.dll
+S:\Solutions\mikkelhm\ReadFeed\ReadFeed.Kernel\bin\Debug\ReadFeed.Kernel.pdb
+S:\Solutions\mikkelhm\ReadFeed\ReadFeed.Kernel\obj\Debug\ReadFeed.Kernel.dll
+S:\Solutions\mikkelhm\ReadFeed\ReadFeed.Kernel\obj\Debug\ReadFeed.Kernel.pdb
+S:\Solutions\mikkelhm\ReadFeed\ReadFeed.Kernel\bin\Debug\HtmlAgilityPack.dll
+S:\Solutions\mikkelhm\ReadFeed\ReadFeed.Kernel\bin\Debug\HtmlAgilityPack.pdb
+S:\Solutions\mikkelhm\ReadFeed\ReadFeed.Kernel\bin\Debug\HtmlAgilityPack.xml

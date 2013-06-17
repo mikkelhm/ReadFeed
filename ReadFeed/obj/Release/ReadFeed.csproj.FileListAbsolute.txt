@@ -1,0 +1,15 @@
+S:\Solutions\mikkelhm\ReadFeed\ReadFeed\bin\ReadFeed.dll
+S:\Solutions\mikkelhm\ReadFeed\ReadFeed\bin\ReadFeed.pdb
+S:\Solutions\mikkelhm\ReadFeed\ReadFeed\bin\Newtonsoft.Json.dll
+S:\Solutions\mikkelhm\ReadFeed\ReadFeed\bin\ReadFeed.Kernel.dll
+S:\Solutions\mikkelhm\ReadFeed\ReadFeed\bin\System.Net.Http.Formatting.dll
+S:\Solutions\mikkelhm\ReadFeed\ReadFeed\bin\System.Web.Http.dll
+S:\Solutions\mikkelhm\ReadFeed\ReadFeed\bin\System.Web.Http.WebHost.dll
+S:\Solutions\mikkelhm\ReadFeed\ReadFeed\bin\ReadFeed.Kernel.pdb
+S:\Solutions\mikkelhm\ReadFeed\ReadFeed\bin\Newtonsoft.Json.xml
+S:\Solutions\mikkelhm\ReadFeed\ReadFeed\bin\System.Net.Http.Formatting.xml
+S:\Solutions\mikkelhm\ReadFeed\ReadFeed\bin\System.Web.Http.xml
+S:\Solutions\mikkelhm\ReadFeed\ReadFeed\bin\System.Web.Http.WebHost.xml
+S:\Solutions\mikkelhm\ReadFeed\ReadFeed\obj\Release\ReadFeed.csprojResolveAssemblyReference.cache
+S:\Solutions\mikkelhm\ReadFeed\ReadFeed\obj\Release\ReadFeed.dll
+S:\Solutions\mikkelhm\ReadFeed\ReadFeed\obj\Release\ReadFeed.pdb
