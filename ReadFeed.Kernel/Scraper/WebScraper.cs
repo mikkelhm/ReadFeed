@@ -18,7 +18,9 @@ namespace ReadFeed.Kernel.Scraper
             string content = await resp.Content.ReadAsStringAsync();
             HtmlDocument doc = new HtmlDocument();
             doc.LoadHtml(content);
-            content = doc.DocumentNode.SelectSingleNode("//article | //div[@class='post']").InnerHtml;
+            doc.DocumentNode.Descendants().Where(n => n.Name == "script").ToList().ForEach(n => n.Remove());
+            //doc.DocumentNode.Descendants().Where(n => n.Attributes["class"].Value.Contains("comments")).ToList().ForEach(n => n.Remove());
+            content = doc.DocumentNode.SelectSingleNode("//article | //div[contains(@class, 'post')] | // div[@id='article']").InnerHtml;
             return content;
         }
     }

@@ -13,3 +13,6 @@ S:\Solutions\mikkelhm\ReadFeed\ReadFeed\bin\System.Web.Http.WebHost.xml
 S:\Solutions\mikkelhm\ReadFeed\ReadFeed\obj\Release\ReadFeed.csprojResolveAssemblyReference.cache
 S:\Solutions\mikkelhm\ReadFeed\ReadFeed\obj\Release\ReadFeed.dll
 S:\Solutions\mikkelhm\ReadFeed\ReadFeed\obj\Release\ReadFeed.pdb
+S:\Solutions\mikkelhm\ReadFeed\ReadFeed\bin\HtmlAgilityPack.dll
+S:\Solutions\mikkelhm\ReadFeed\ReadFeed\bin\HtmlAgilityPack.pdb
+S:\Solutions\mikkelhm\ReadFeed\ReadFeed\bin\HtmlAgilityPack.xml

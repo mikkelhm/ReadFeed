@@ -21,7 +21,7 @@
                     <div style="font-size:10px;padding:0 0 5px;">
                         <%# Eval("FeedName") %> <%# Eval("Published") %>
                     </div>
-                    <div style="font-size:12px;font-weight:bold;">
+                    <div style="font-weight:bold;">
                         <%# Eval("Title") %> [<a href='<%#Eval("Url") %>' target="_blank">Source</a>]
                     </div>
                 </div>

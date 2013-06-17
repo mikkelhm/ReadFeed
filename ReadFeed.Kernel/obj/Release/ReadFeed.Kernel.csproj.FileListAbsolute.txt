@@ -2,3 +2,6 @@ S:\Solutions\mikkelhm\ReadFeed\ReadFeed.Kernel\bin\Release\ReadFeed.Kernel.dll
 S:\Solutions\mikkelhm\ReadFeed\ReadFeed.Kernel\bin\Release\ReadFeed.Kernel.pdb
 S:\Solutions\mikkelhm\ReadFeed\ReadFeed.Kernel\obj\Release\ReadFeed.Kernel.dll
 S:\Solutions\mikkelhm\ReadFeed\ReadFeed.Kernel\obj\Release\ReadFeed.Kernel.pdb
+S:\Solutions\mikkelhm\ReadFeed\ReadFeed.Kernel\bin\Release\HtmlAgilityPack.dll
+S:\Solutions\mikkelhm\ReadFeed\ReadFeed.Kernel\bin\Release\HtmlAgilityPack.pdb
+S:\Solutions\mikkelhm\ReadFeed\ReadFeed.Kernel\bin\Release\HtmlAgilityPack.xml

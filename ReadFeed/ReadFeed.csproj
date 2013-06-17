@@ -71,6 +71,12 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="css\style.css">
+      <DependentUpon>style.less</DependentUpon>
+    </Content>
+    <Content Include="css\style.min.css">
+      <DependentUpon>style.less</DependentUpon>
+    </Content>
     <Content Include="default.aspx" />
     <Content Include="Global.asax" />
     <Content Include="js\main.js">

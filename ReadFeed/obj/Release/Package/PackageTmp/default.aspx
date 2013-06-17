@@ -17,15 +17,15 @@
         </HeaderTemplate>
         <ItemTemplate>
             <div style="padding:5px;border-bottom:1px solid #ccc" class='feed_<%# Eval("FeedID") %>'>
-                <div onclick="jQuery('#description_<%# Container.ItemIndex %>').toggle();" style="overflow:hidden;cursor:pointer;">
+                <div onclick="jQuery('#description_<%# Container.ItemIndex %>').toggle();loadPage('description_<%# Container.ItemIndex %>', '<%#Eval("Url") %>');" style="overflow:hidden;cursor:pointer;">
                     <div style="font-size:10px;padding:0 0 5px;">
                         <%# Eval("FeedName") %> <%# Eval("Published") %>
                     </div>
-                    <div style="font-size:12px;font-weight:bold;">
+                    <div style="font-weight:bold;">
                         <%# Eval("Title") %> [<a href='<%#Eval("Url") %>' target="_blank">Source</a>]
                     </div>
                 </div>
-                <div style="display:none;" id="description_<%# Container.ItemIndex %>"><%# Eval("Description") %></div>
+                <div style="display:none;" id="description_<%# Container.ItemIndex %>"></div>
             </div>
         </ItemTemplate>
         <FooterTemplate>
@@ -35,6 +35,6 @@
 
     </form>
     <script src="http://code.jquery.com/jquery.js"></script>
-    <script src="/js/main.min.js"></script>
+    <script src="/js/main.js"></script>
 </body>
 </html>
